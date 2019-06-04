@@ -1,11 +1,15 @@
 {
-  "name": "nodejs-hello-world",
+  "name": "@drorb/nodejs-hello-world",
   "version": "1.0.0",
   "description": "Nodejs Hello World sample app",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "git://github.com/drorb/nodejs-hello-world.git"
   },
   "author": "fhinkel",
   "license": "MIT",

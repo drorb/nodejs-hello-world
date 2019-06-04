@@ -1,6 +1,6 @@
 {
   "name": "@drorb/nodejs-hello-world",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Nodejs Hello World sample app",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type" : "git",
-    "url" : "ssh://git@github.com/drorb/nodejs-hello-world.git"
+    "url" : "git+https://github.com/drorb/nodejs-hello-world.git"
   },
   "author": "fhinkel",
   "license": "MIT",

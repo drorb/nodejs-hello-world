@@ -1,6 +1,6 @@
 {
   "name": "@drorb/nodejs-hello-world",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nodejs Hello World sample app",
   "main": "index.js",
   "scripts": {
